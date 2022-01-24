@@ -1,0 +1,25 @@
+{
+  "name": "sit752-2021-t3-p3-abc",
+  "version": "1.0.0",
+  "description": "Testing Projects with Date",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuliaAxelrod/sit752-2021-t3-p3-ABC.git"
+  },
+  "author": "Julia Axelrod",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JuliaAxelrod/sit752-2021-t3-p3-ABC/issues"
+  },
+  "homepage": "https://github.com/JuliaAxelrod/sit752-2021-t3-p3-ABC#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
